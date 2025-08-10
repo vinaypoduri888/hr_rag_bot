@@ -1,0 +1,326 @@
+{
+  "employees": [
+    {
+      "id": "4caa7b63-908d-4ed4-86d8-2fb36de03824",
+      "name": "Aaron Sims",
+      "skills": [
+        "Computer Vision",
+        "React",
+        "Python",
+        "NLP",
+        "Scala",
+        "MongoDB"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Education Analytics",
+        "E-commerce Platform"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": "6e725315-0145-4b65-b80e-53765a6a081c",
+      "name": "Brittany Dixon",
+      "skills": [
+        "FastAPI",
+        "PyTorch",
+        "React",
+        "React Native",
+        "scikit-learn"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "DevOps Automation"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "ce102478-9c66-4f16-9ff2-32aae9a20498",
+      "name": "Karen Young",
+      "skills": [
+        "scikit-learn",
+        "Docker",
+        "PyTorch",
+        "Scala"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "E-commerce Platform"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "b79bb611-9e98-43d4-864c-1f4372955851",
+      "name": "Isaac Madden",
+      "skills": [
+        "Flask",
+        "TensorFlow",
+        "Scala"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Education Analytics",
+        "E-commerce Platform"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "ac2d682d-2632-449f-998d-80fc997cdc7d",
+      "name": "Scott Burgess",
+      "skills": [
+        "AWS",
+        "GCP",
+        "Spark"
+      ],
+      "experience_years": 9,
+      "projects": [
+        "DevOps Automation"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "9a160f48-5fbe-496d-a3d0-136f0d03c6a6",
+      "name": "Darlene Murphy",
+      "skills": [
+        "Computer Vision",
+        "MongoDB",
+        "PyTorch",
+        "NLP",
+        "GCP",
+        "Kubernetes"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Claims Processing API"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "c3eaee9b-ce20-43fb-8062-e64e3a347f14",
+      "name": "Ashley Peters",
+      "skills": [
+        "scikit-learn",
+        "Scala",
+        "Kubernetes",
+        "Node"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Claims Processing API"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": "2bf80974-36be-46d0-8be5-48a031022d9d",
+      "name": "Alexander Gilbert",
+      "skills": [
+        "Computer Vision",
+        "SQL",
+        "NLP"
+      ],
+      "experience_years": 9,
+      "projects": [
+        "Education Analytics",
+        "E-commerce Platform"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "c8340f87-e672-416c-a75f-567e8bd46feb",
+      "name": "Michael Jenkins",
+      "skills": [
+        "Computer Vision",
+        "Flask",
+        "SQL",
+        "FastAPI",
+        "PyTorch"
+      ],
+      "experience_years": 9,
+      "projects": [
+        "Healthcare Dashboard"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": "25899f72-dd87-4213-bb26-789ef11486b2",
+      "name": "Barbara Aguilar",
+      "skills": [
+        "FastAPI",
+        "React Native",
+        "React"
+      ],
+      "experience_years": 1,
+      "projects": [
+        "Claims Processing API",
+        "Education Analytics",
+        "Risk Prediction System"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "6d22a53c-6e7b-4445-92d8-fc22bbe4f887",
+      "name": "Michael Williams",
+      "skills": [
+        "GCP",
+        "Azure",
+        "Flask",
+        "SQL"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Education Analytics"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "850cb88d-d5e7-485c-93c6-18ba4d91de11",
+      "name": "Joanne Rowe",
+      "skills": [
+        "FastAPI",
+        "Docker",
+        "Pandas",
+        "AWS",
+        "PostgreSQL"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Fraud Detection Service"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": "a10b736f-a2bf-4ecc-bc9d-22b3cb47f51c",
+      "name": "Michelle Haas",
+      "skills": [
+        "Go",
+        "Spark",
+        "GCP",
+        "Computer Vision",
+        "Pandas"
+      ],
+      "experience_years": 10,
+      "projects": [
+        "Risk Prediction System",
+        "Healthcare Dashboard"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": "cb06ad9e-9ea6-425c-983b-c56db5f69ea3",
+      "name": "Jorge Boyer MD",
+      "skills": [
+        "Java",
+        "NLP",
+        "Docker",
+        "React Native"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "DevOps Automation"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "d226f541-89c9-47d6-9f73-8ce97c4a719e",
+      "name": "Nicole Bennett",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "NLP",
+        "AWS"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Claims Processing API"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "da19ea34-ec67-42be-b94e-c052fb41ca99",
+      "name": "Jeremy Martinez",
+      "skills": [
+        "MongoDB",
+        "Go",
+        "Node",
+        "Computer Vision"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Claims Processing API",
+        "Fraud Detection Service",
+        "DevOps Automation"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "8d7d3f42-0265-4bd3-99bc-1755175f3436",
+      "name": "Gina Hill",
+      "skills": [
+        "MongoDB",
+        "Computer Vision",
+        "Flask",
+        "Spark"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Risk Prediction System"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "8dbd787d-ec96-4f00-a06b-0a2a52a16c20",
+      "name": "Donna Travis",
+      "skills": [
+        "NLP",
+        "Flask",
+        "Spark",
+        "SQL",
+        "Go"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Risk Prediction System",
+        "Fraud Detection Service"
+      ],
+      "availability": "not available"
+    },
+    {
+      "id": "4ac3df00-b3e8-48fb-9668-a441fbf243e2",
+      "name": "Caitlin Woodard",
+      "skills": [
+        "Go",
+        "PostgreSQL",
+        "NLP",
+        "React"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "E-commerce Platform",
+        "Healthcare Dashboard"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": "db67db5e-5ff3-4886-aa47-7ea552b52a2e",
+      "name": "Raymond Weiss",
+      "skills": [
+        "Kubernetes",
+        "GCP",
+        "Java",
+        "React Native",
+        "Node",
+        "Python"
+      ],
+      "experience_years": 10,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Healthcare Dashboard",
+        "E-commerce Platform"
+      ],
+      "availability": "not available"
+    }
+  ]
+}
