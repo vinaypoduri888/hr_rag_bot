@@ -1,6 +1,6 @@
 # HR Resource Query Chatbot (RAG) — FastAPI + FAISS + SentenceTransformers + Gemini Pro
 
-> **Developed by Vinay (String)**  
+> **Developed by Vinay **  
 > Find the right people fast with hybrid retrieval (semantic + constraints) and LLM-quality HR recommendations.
 
 ![Streamlit UI](docs/streamlit_ui.png)
@@ -304,8 +304,7 @@ python -m scripts.build_index
 
 ---
 
-## License
-MIT — free to use and extend.
+
 
 ---
 
