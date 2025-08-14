@@ -7,7 +7,7 @@
 
 ---
 
-## TL;DR (Run in 2 minutes)
+## (Run in 2 minutes)
 
 ```bash
 # 0) clone
